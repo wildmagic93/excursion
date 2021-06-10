@@ -1,0 +1,35 @@
+*
+{
+    background-color: black;
+}
+
+h3
+{
+    text-align: center;
+    color: gray;
+    text-size: 20px;
+}
+
+h3.footer
+{
+    text-align: right;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+    text-size: 27px;
+}
+
+a
+{
+    color: limegreen;
+    text-align: center;
+}
+
+.center, #here {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
